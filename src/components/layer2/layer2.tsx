@@ -9,8 +9,20 @@ export function Layer2() {
                 <h1 className={style.iconBlog}>Nossas últimas receitas</h1>
                 <p>Aqui você encontra os últimos pratos adicionados ao nosso arsenal de aulas.</p>
             </header>
+            <Articles />
+            <Articles />
+            <Articles />
+            <Articles />
+            <Articles />
+            <Articles />
+            <Articles />
+            <Articles />
+            <Articles />
+            <Articles />
+            <Articles />
+            <Articles />
         </section>
-        <Articles />
+        
         </>
     )
 }
