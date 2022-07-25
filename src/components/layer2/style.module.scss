@@ -1,0 +1,20 @@
+.mainBlog {
+    max-width: calc(1300px - 40px);
+    padding: 0 20px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: #FFFBFE;
+}
+
+.mainBlog .mainBlogHeader {
+    margin: 30px 0px;
+    flex-basis: 100%;
+}
+
+.mainBlogHeader h1 {
+    color: #33403d;
+    margin-bottom: 5px;
+    font-size: 1.8em;
+}

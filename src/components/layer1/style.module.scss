@@ -1,0 +1,63 @@
+.mainCta {
+    padding-top: 139px;
+    width: 100%;
+    background-color: #33493D;
+    background-image: url(../../images/projeto.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.mainCta .mainCtaContent {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+.mainCta .mainCtaContent h1 {
+    font-size: 3em;
+    color: #FFFBFE;
+    font-weight: 700;
+    text-align: center;
+}
+
+.mainCtaContent p {
+    font-size: 1.75em;
+    color: #FFFBFE;
+    font-weight: 300;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.mainCtaContent .mainCtaContentSpacer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.mainCtaContent .mainCtaContentSpacer p {
+    width: 100%;
+}
+
+.mainCtaContent .mainCtaContentSpacer button {
+    flex-basis: 15%;
+    background-color: #D17A22;
+    border-radius: 5px;
+    color: #FFFBFE;
+    font-size: 1em;
+    font-weight: 500;
+    ;
+    padding: 10px 15px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border: none;
+}
+
+.mainCtaContent .butn:hover {
+    background-color: #4D0610;
+}
+
+.mainCtaContentSpacer {
+    margin: 0 auto;
+    max-width: 1300px;
+    padding: 160px 40px;
+}
