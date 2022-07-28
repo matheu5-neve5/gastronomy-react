@@ -7,7 +7,7 @@ export function Menu () {
     <header className={style.mainHeader}>
         <div className={style.mainHeaderContent}>
             <a href="#" className="col-6 m-3 col-md-4">
-                <img src={logo} alt="Logo da marca" title="Logo da marca!!"></img>
+                <img src={logo} alt="Logo da marca" title="Logo da marca"></img>
             </a>
 
             <nav className={style.mainHeaderConntentMenu}>
